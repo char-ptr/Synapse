@@ -1,5 +1,5 @@
 # Synapse
-my stuff for synapse x
+stuff for synapse x
 
 
 ## Support
