@@ -3,7 +3,7 @@ my stuff for synapse x
 
 
 ## Support
-Originally grabbed from my (tamper monkey script collection)[https://github.com/pozm/TamperMonkeyScripts]
+Originally grabbed from my [tamper monkey script collection](https://github.com/pozm/TamperMonkeyScripts)
 I plan on extending it in the future under specific conditions.
 
 ## Wiki
