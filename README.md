@@ -7,6 +7,9 @@ Originally grabbed from my [tamper monkey script collection](https://github.com/
 
 I plan on extending it in the future under specific conditions.
 
+## Examples
+Shows how to use stuff in the wiki.
+
 ## Wiki
 The wiki is basically cloned from LoukaMB's old synapse repo. 
 
